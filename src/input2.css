@@ -6,3 +6,14 @@
     height: 400vh;
     padding-top: 100px;
 }
+
+.background2 {
+    background-image: url('../image/Rectangle\ \(39\).png');
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+    height: 100vh;
+    padding-left: 200px;
+    padding-top: 240px;
+    margin-bottom: 130px;
+}   
