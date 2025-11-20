@@ -1,0 +1,8 @@
+.background1 {
+    background-image: url('../image/Rectangle\ \(38\).png');
+    background-size: cover;
+    background-position: center;
+    padding: 50px 0;
+    height: 400vh;
+    padding-top: 100px;
+}
