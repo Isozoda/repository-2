@@ -17,3 +17,15 @@
     padding-top: 240px;
     margin-bottom: 130px;
 }   
+
+@media (max-width: 480px) {
+    .background1{
+    height: auto;
+    }
+    .background2 {
+    height: auto;
+    padding-left: 25px;
+    padding-top: 80px;    
+    }
+
+}
